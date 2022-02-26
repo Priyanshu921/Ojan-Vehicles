@@ -1,0 +1,19 @@
+{
+  "name": "ojan-vehicles",
+  "version": "1.0.0",
+  "description": "With this web app anyone can book/rent a vehicle.",
+  "main": "ovs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Priyanshu921/Ojan-Vehicles.git"
+  },
+  "author": "CodeCursor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Priyanshu921/Ojan-Vehicles/issues"
+  },
+  "homepage": "https://github.com/Priyanshu921/Ojan-Vehicles#readme"
+}
