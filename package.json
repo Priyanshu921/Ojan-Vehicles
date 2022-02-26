@@ -4,6 +4,7 @@
   "description": "With this web app anyone can book/rent a vehicle.",
   "main": "ovs.js",
   "scripts": {
+    "start": "nodemon ovs.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Priyanshu921/Ojan-Vehicles/issues"
   },
-  "homepage": "https://github.com/Priyanshu921/Ojan-Vehicles#readme"
+  "homepage": "https://github.com/Priyanshu921/Ojan-Vehicles#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
 }
